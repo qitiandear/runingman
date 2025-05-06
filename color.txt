@@ -1,4 +1,5 @@
 red
-bule
 black
+white
 green
+yellow
